@@ -1,6 +1,6 @@
 # 📦 Amazon Global Sales & Product Intelligence | Power BI Project
 
-🚀 **Project by Sahil Singh Rajpüt** | Certified in Project Management & BI | Vision to join Amazon
+🚀 **Project by Sahil Raj** | Certified in Project Management & BI | Vision to join Amazon
 
 This Business Intelligence project analyzes real Amazon product data to extract valuable insights for product managers, marketing analysts, and supply chain teams. Built using **Power BI** and **Excel**, this project aims to showcase how business intelligence can enhance decision-making for e-commerce giants like **Amazon**.
 
@@ -43,6 +43,6 @@ This project reflects how even a subset of Amazon data can reveal global purchas
 
 ## 🤝 Let's Connect
 
-👤 Sahil Singh Rajpüt  
+👤 Sahil Raj  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sahil-your-url)  
 💼 Looking forward to opportunities at **Amazon Global, US HQ**  
