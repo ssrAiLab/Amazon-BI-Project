@@ -44,5 +44,5 @@ This project reflects how even a subset of Amazon data can reveal global purchas
 ## 🤝 Let's Connect
 
 👤 Sahil Raj  
-🔗 [LinkedIn Profile](www.linkedin.com/in/sahil-raj-36198a250)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/sahil-raj-36198a250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 💼 Looking forward to opportunities at **Amazon Global, US HQ**  
