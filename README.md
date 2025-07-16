@@ -1,48 +1,63 @@
 # 📦 Amazon Global Sales & Product Intelligence | Power BI Project
 
-🚀 **Project by Sahil Raj** | Certified in Project Management & BI | Vision to join Amazon
+🚀 **Project by Sahil Raj**  
+🎯 Certified in Project Management & BI | Dreaming Big: To Join Amazon
 
-This Business Intelligence project analyzes real Amazon product data to extract valuable insights for product managers, marketing analysts, and supply chain teams. Built using **Power BI** and **Excel**, this project aims to showcase how business intelligence can enhance decision-making for e-commerce giants like **Amazon**.
+This Business Intelligence project explores **real Amazon product data** to uncover insights useful for **product managers, analysts, and supply chain strategists**.  
+Built using **Power BI + Excel**, this dashboard shows how intelligent data storytelling can power decision-making for e-commerce leaders like **Amazon**.
 
 ---
 
 ## 🔍 Key Objectives
 
-- 📊 Identify best-performing product categories
-- ⭐ Analyze customer review patterns across products
-- 💰 Study pricing vs. reviews correlation
-- 🕒 Detect trends in shipment & order timings
-- 🌎 Focused on "Ships to Bangladesh" data — giving global insight
+- 📊 Identify best-performing product categories  
+- ⭐ Analyze customer review patterns  
+- 💰 Correlate pricing with review performance  
+- 🕒 Visualize shipment & order trends  
+- 🌎 Explore global demand (focus: Ships to Bangladesh)
 
 ---
 
-## 📌 Technologies Used
+## 🛠️ Tools & Technologies
 
-- **Power BI** for dashboard & visual storytelling
-- **Excel** for cleaning and modeling data
-- **Python (optional)** for future expansion in Kaggle & automation
-- **GitHub** for open-source visibility
+- **Power BI** – Visual dashboards & data modeling  
+- **Excel** – Cleaning & structuring the dataset  
+- **Python** (optional) – For Kaggle expansion/automation  
+- **GitHub** – For open-source code & visibility
 
 ---
 
 ## 📈 Top Insights
 
-- 🔊 *Audio & Video* category dominates in volume & reviews
-- 💵 Products priced between `$20–$60` receive the highest reviews
-- 🗓️ January has consistent high orders (New Year impact?)
-- 🌍 Demand exists even in non-core markets like Bangladesh
+- 🔊 *Audio & Video* category leads in sales & reviews  
+- 💵 Products priced between `$20–$60` are most engaging  
+- 📅 Orders surge in January (holiday/new year trend)  
+- 🌍 Global interest seen even in regions like Bangladesh
 
 ---
 
-## 🎯 Why This Project?
+## 💡 Why This Project?
 
-> Amazon is not just a marketplace — it's an insight engine.  
-This project reflects how even a subset of Amazon data can reveal global purchasing behaviors, product demand, and marketing intelligence.
+> “Amazon is not just a marketplace — it's a living dataset.”  
+This project reflects how data can reveal global buying patterns, product impact, and user behavior — even from a niche shipment dataset.
 
 ---
 
-## 🤝 Let's Connect
+## 📂 Files Included
 
-👤 Sahil Raj  
+- `Amazon_Combined_Data.xlsx` – Clean dataset  
+- `Amazon.pbix` – Power BI dashboard file  
+- `dashboard.png` – Visual snapshot of report  
+- `README.md` – This file you’re reading!
+
+---
+
+## 🤝 Let’s Connect
+
+👤 **Sahil Raj**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sahil-raj-36198a250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-💼 Looking forward to opportunities at **Amazon Global, US HQ**  
+💼 Looking forward to contributing to **Amazon Global | BI, Analytics or PM roles**
+
+---
+
+⭐ *If you liked this project, star it or drop feedback — every bit matters!*
